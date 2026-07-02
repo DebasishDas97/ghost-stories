@@ -425,7 +425,7 @@ textarea {
     box-shadow: 0 4px 60px rgba(0, 0, 0, 0.1);
     min-width: 320px;
     max-width: 350px;
-    max-height: 250px;
+    min-height: 250px;
     padding: 1.4rem;
     overflow: hidden;
     display: flex;
