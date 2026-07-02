@@ -1,4 +1,4 @@
-# 👻 From the Other Side
+# 👻 Real Ghost Stories
 
 A platform for sharing and reading paranormal sightings — built with **vanilla Node.js** (zero framework, zero Express). The server handles static file serving, a REST API, and a real-time Server-Sent Events (SSE) news feed, all using only the built-in `node:http` module.
 
