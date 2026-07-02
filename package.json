@@ -1,0 +1,20 @@
+{
+  "name": "from-the-other-side",
+  "version": "1.0.0",
+  "description": "A platform for sharing ghostly encounters",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "author": "Tom Chant",
+  "license": "ISC",
+  "dependencies": {
+    "sanitize-html": "^2.16.0",
+    "uuid": "^14.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
